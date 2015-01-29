@@ -429,10 +429,8 @@ runExperiment(expInfo)
 
 '''
 **DONE**
-Save data information in both a .csv and excel file. - Restructure the experiment to meet the requeriments of the Trial/ExperimenHandler 
-Controlling the color of the dots, so that they can be easily distinguish by participants 
 Controlling the number of repetitions for each comparison 
-BUGGY:Don't start experiment without having written participant's information
+BUGGY:Does not save info for repetitions separately in xcel file.
     #OPTIONAL
 Add motion to the dots
 Present stimulus non-target before the dots (e.g. a square and a triangle) 
