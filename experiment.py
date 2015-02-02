@@ -428,10 +428,10 @@ runExperiment(expInfo)
 
 
 '''
-**DONE**
-Controlling the number of repetitions for each comparison 
-BUGGY:Does not save info for repetitions separately in xcel file.
+**THINGS TO DO**
+BUGGY:Does not save info for repetitions separately in Excel file.
     #OPTIONAL
 Add motion to the dots
-Present stimulus non-target before the dots (e.g. a square and a triangle) 
+Present stimulus non-target before the dots (e.g. a square and a triangle)
+Control the total area and individual area of the circles
 '''
